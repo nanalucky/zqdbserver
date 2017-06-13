@@ -1,0 +1,1 @@
+﻿{"SetProxy":"1","StartTime":"01:41:00","NotReadNumInterval":"60","ReLoginInterval":"900","list":[{"ConcertId":"59","Prices":"1880;1680;1280;380;580;480"},{"ConcertId":"58","Prices":"1880;1680;1280;380;580;480"}]}
