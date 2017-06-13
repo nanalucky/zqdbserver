@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;zqdbserver&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../zqdbserver1" />
+      <root url="file://$PROJECT_DIR$/../git.code4.in" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../zqdbserver1" />
+      <root url="file://$PROJECT_DIR$/../git.code4.in" />
+      <root url="file://$PROJECT_DIR$/../hello" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
